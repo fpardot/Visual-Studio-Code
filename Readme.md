@@ -24,11 +24,11 @@ En la tercera pantalla nos muestra un cuadro de resumen de las opciones que inst
 
 Instalación completada, pulsamos Finalizar
 
-![alt text](https://github.com/fpardot/VMware/blob/2106406c7f2c2d1b6b75d0c56f6596b1e3b3df3a/img/11.png)
+![alt text](https://github.com/fpardot/Visual-Studio-Code/blob/5f5804c5dc89c5b72323b739f39135158f379238/img/11.png)
 
 Programa listo para ocupar
 
-![alt text](https://github.com/fpardot/VMware/blob/2106406c7f2c2d1b6b75d0c56f6596b1e3b3df3a/img/12.png)
+![alt text](https://github.com/fpardot/Visual-Studio-Code/blob/5f5804c5dc89c5b72323b739f39135158f379238/img/12.png)
 
 ## Cambiar Visual Studio Code a idioma Español
 
@@ -42,12 +42,12 @@ Para esto debemos ingresar al menu de las extensiones, lo podemos realizar de 3 
 
 En el cuadrado de texto ingresamos espa y la primera opción que nos muestra nos da la opción de instalar el idioma español, para esto pinchamos el botón azul que dice **Install**
 
-![alt text](https://github.com/fpardot/VMware/blob/2106406c7f2c2d1b6b75d0c56f6596b1e3b3df3a/img/13.png)
+![alt text](https://github.com/fpardot/Visual-Studio-Code/blob/5f5804c5dc89c5b72323b739f39135158f379238/img/13.png)
 
 Una vez instalada la extensión nos aparece un cuadrado en la parte inferior derecha y apretamos el botón Change Language and Restart
 
-![alt text](https://github.com/fpardot/VMware/blob/2106406c7f2c2d1b6b75d0c56f6596b1e3b3df3a/img/14.png)
+![alt text](https://github.com/fpardot/Visual-Studio-Code/blob/5f5804c5dc89c5b72323b739f39135158f379238/img/14.png)
 
 Y listo ya tenemos el Visual Studio Code en español
 
-![alt text](https://github.com/fpardot/VMware/blob/2106406c7f2c2d1b6b75d0c56f6596b1e3b3df3a/img/15.png)
+![alt text](https://github.com/fpardot/Visual-Studio-Code/blob/5f5804c5dc89c5b72323b739f39135158f379238/img/15.png)
