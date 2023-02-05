@@ -14,7 +14,7 @@ Ejecutamos el instalador, en la primera pantalla tendremos la opción de dejar l
 
 ![alt text](https://github.com/fpardot/VMware/blob/2106406c7f2c2d1b6b75d0c56f6596b1e3b3df3a/img/7.png)
 
-En la siguiente pantalla nos da la opción de elegir varias opciones, podemos elegirlas todas o no, las mas importantes son las dos ultimas, pero dependera de su comodidad, una vez seleccionada las opciones damos clic en el botón Siguiente >
+En la siguiente pantalla nos da la opción de elegir varias opciones, podemos elegirlas todas o no, las más importantes son las dos últimas, pero dependerá de su comodidad, una vez seleccionada las opciones damos clic en el botón Siguiente >
 
 ![alt text](https://github.com/fpardot/VMware/blob/2106406c7f2c2d1b6b75d0c56f6596b1e3b3df3a/img/8.png)
 
@@ -32,7 +32,7 @@ Programa listo para ocupar
 
 ## Cambiar Visual Studio Code a idioma Español
 
-Para esto debemos ingresar al menu de las extensiones, lo podemos realizar de 3 maneras:
+Para esto debemos ingresar al menú de las extensiones, lo podemos realizar de 3 maneras:
 
 1. La primera es presionando la combinación de teclas **Ctrl + Mayus + X**
 2. La segunda es en el menú **Ver** y pinchamos la opción **Extensiones**
